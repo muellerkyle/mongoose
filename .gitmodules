@@ -1,6 +1,6 @@
 [submodule "lib/support/node-mongodb-native"]
 	path = lib/support/node-mongodb-native
-	url = git://github.com/christkv/node-mongodb-native.git
+	url = git://github.com/muellerkyle/node-mongodb-native.git
 [submodule "tests/unit/support/jspec"]
 	path = tests/unit/support/jspec
 	url = git://github.com/visionmedia/jspec.git
